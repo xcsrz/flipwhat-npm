@@ -1,6 +1,6 @@
 {
   "name": "@xcsrz/flipwhat",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A simple spin on the classic ascii table flip.",
   "main": "dist/main.js",
   "types": "dist/main.d.ts",
