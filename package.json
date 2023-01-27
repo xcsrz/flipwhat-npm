@@ -1,0 +1,30 @@
+{
+  "name": "@xcsrz/flipwhat",
+  "version": "0.0.1",
+  "description": "A simple spin on the classic ascii table flip.",
+  "main": "dist/main.js",
+  "types": "dist/main.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "keywords": [
+    "ascii",
+    "table flip",
+    "tableflip",
+    "text",
+    "emoji",
+    "string",
+    "manipulation"
+  ],
+  "author": "xcsrz",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcsrz/flipwhat-npm.git"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
